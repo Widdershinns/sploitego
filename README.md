@@ -41,7 +41,7 @@ run for the first time and initialized (i.e. logged in, transforms discovered, e
 and run the following command:
 
 ```bash
-$ canari install-package sploitego
+$ canari create-profile sploitego
 ```
 
 
